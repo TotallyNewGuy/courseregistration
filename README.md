@@ -1,4 +1,4 @@
-# Courseregistration  
+# Course Registration System  
 This is a briefly introduction of this project.  
 I drawn some diagrams to explain my results.  
 
