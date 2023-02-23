@@ -9,14 +9,25 @@ I drawn some diagrams to explain my results.
 ## B. Services logic: user call student service to send emails
 ![image](https://github.com/TotallyNewGuy/courseregistration/blob/main/picture/services_logic.png)
 
-## C. Detail of implementation of message queue - publish
+## C. Detail of implementation of message queue  
+### 1. Publish
 
 ![image](https://github.com/TotallyNewGuy/courseregistration/blob/main/picture/mq_publish.png)  
 
-## D. Detail of implementation of message queue - subscribe
+### 2. Subscribe
 
-![image](https://github.com/TotallyNewGuy/courseregistration/blob/main/picture/mq_subscribe.png)
+![image](https://github.com/TotallyNewGuy/courseregistration/blob/main/picture/mq_subscribe.png)  
 
-## E. Detail of implementation of message queue - running in django
+## 3. running in django
 
-![image](https://github.com/TotallyNewGuy/courseregistration/blob/main/picture/run_in_django.png)
+![image](https://github.com/TotallyNewGuy/courseregistration/blob/main/picture/run_in_django.png)  
+
+## D. Detail of implementation of registry  
+### 1. Logic
+![image](https://github.com/TotallyNewGuy/courseregistration/blob/main/picture/registry-logic.png)  
+
+### 2. Raft algorithm
+![image](https://github.com/TotallyNewGuy/courseregistration/blob/main/picture/raft%20logic.png)  
+
+### 3. Fault tolerance
+![image](https://github.com/TotallyNewGuy/courseregistration/blob/main/picture/raft-consensus.png)  
